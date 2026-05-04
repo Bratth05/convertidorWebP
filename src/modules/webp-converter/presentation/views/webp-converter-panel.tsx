@@ -32,7 +32,7 @@ export function WebpConverterPanel() {
   } = useWebpConverter();
 
   return (
-    <section className="rounded-[2rem] border border-white/70 bg-white/75 p-5 shadow-[0_24px_80px_rgba(51,65,85,0.16)] backdrop-blur-xl sm:p-6">
+    <section className="rounded-[2rem] border border-white/70 bg-white/90 p-5 shadow-[0_18px_48px_rgba(51,65,85,0.12)] sm:p-6">
       <div className="flex items-start justify-between gap-4">
         <div>
           <p className="text-sm font-medium uppercase tracking-[0.18em] text-teal-700">Convertidor</p>
